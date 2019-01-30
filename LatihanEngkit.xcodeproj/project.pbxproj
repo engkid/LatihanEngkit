@@ -16,6 +16,7 @@
 		1E27DD7D21ABBCF200E1C9D0 /* GridViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1E27DD7B21ABBCF200E1C9D0 /* GridViewController.xib */; };
 		1E27DD7F21ABBEEE00E1C9D0 /* GridViewPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E27DD7E21ABBEED00E1C9D0 /* GridViewPresenter.swift */; };
 		1E3EAE562201922200E074DE /* Engkit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E3EAE552201922200E074DE /* Engkit.swift */; };
+		1E3EAE582201959E00E074DE /* NewFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E3EAE572201959E00E074DE /* NewFile.swift */; };
 		1E8A3C5621A853D3007EF55A /* UserModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E8A3C5521A853D3007EF55A /* UserModels.swift */; };
 		1EA0484621A7D5D700F87C88 /* NetworkService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EA0484521A7D5D700F87C88 /* NetworkService.swift */; };
 		1EA0484821A7D85600F87C88 /* Service.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EA0484721A7D85600F87C88 /* Service.swift */; };
@@ -62,6 +63,7 @@
 		1E27DD7B21ABBCF200E1C9D0 /* GridViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = GridViewController.xib; sourceTree = "<group>"; };
 		1E27DD7E21ABBEED00E1C9D0 /* GridViewPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridViewPresenter.swift; sourceTree = "<group>"; };
 		1E3EAE552201922200E074DE /* Engkit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Engkit.swift; sourceTree = "<group>"; };
+		1E3EAE572201959E00E074DE /* NewFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewFile.swift; sourceTree = "<group>"; };
 		1E5896EA21B030E900DC9AF0 /* FirebaseCore.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = FirebaseCore.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E5896EC21B030EE00DC9AF0 /* FirebaseFirestore.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = FirebaseFirestore.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E8A3C5521A853D3007EF55A /* UserModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserModels.swift; sourceTree = "<group>"; };
@@ -174,6 +176,7 @@
 			children = (
 				1E8A3C5521A853D3007EF55A /* UserModels.swift */,
 				1E3EAE552201922200E074DE /* Engkit.swift */,
+				1E3EAE572201959E00E074DE /* NewFile.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -499,6 +502,7 @@
 				1E3EAE562201922200E074DE /* Engkit.swift in Sources */,
 				1EFF848B219949C500B0633D /* AppDelegate.swift in Sources */,
 				1E27DD7C21ABBCF200E1C9D0 /* GridViewController.swift in Sources */,
+				1E3EAE582201959E00E074DE /* NewFile.swift in Sources */,
 				1E27DD7F21ABBEEE00E1C9D0 /* GridViewPresenter.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
